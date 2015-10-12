@@ -1450,6 +1450,7 @@ store you use.
 * [`acid-state`](https://hackage.haskell.org/package/acid-state) - Simple ACID data store that saves Haskell data types natively
 * [`aws`](https://hackage.haskell.org/package/aws) - Bindings to Amazon DynamoDB 
 * [`hedis`](https://hackage.haskell.org/package/hedis) - Bindings to Redis
+* [`groundhog`](http://hackage.haskell.org/package/groundhog) - "ORM"-like mapping library
 
 <br>
 
